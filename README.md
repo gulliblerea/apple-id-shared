@@ -2,6 +2,17 @@
 
 [苹果 ID 共享是什么意思？本仓库说明共享 Apple ID 的原理、能做什么不能做什么、与独享号的区别，并汇总美区/港区/台区/日区/韩区可在 App Store 登录下载小火箭等外区应用的账号获取入口。共享号密码由系统定期轮换，请仅用于 App Store 下载，切勿登录 iCloud。](https://nbid666.com/products)
 
+
+<p align="center"><b>👇 三个都是按钮，点哪个进哪个</b></p>
+
+<p align="center">
+  <a href="https://nbid666.com/products" title="各区独享老号现货，带密保、可转区、自动发货"><img src="assets/all_buy.png" alt="各区老号 · 立即购买" height="68"></a>
+  <br><br>
+  <a href="https://id.tangping.icu/" title="免费共享取号，密码定期轮换，失效自动重置"><img src="assets/all_free.png" alt="免费共享 · 立即取号" height="68"></a>
+  <br><br>
+  <a href="https://nbid666.com/products" title="全部地区现货，可对比价格"><img src="assets/all_regions.png" alt="全部地区 · 对比价格" height="68"></a>
+</p>
+
 > 最近更新：2026-11-10
 
 
